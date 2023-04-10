@@ -1,0 +1,10 @@
+bfg.jar
+mafft-win/*
+logs*
+*.csv
+*events
+events*
+*log
+code/4 - Training & Testing/main_logs
+*.xlsx
+*.sh
