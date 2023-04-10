@@ -1,10 +1,10 @@
 bfg.jar
 mafft-win/*
 logs*
-*.csv
+2 cleaned*
 *events
 events*
 *log
 code/4 - Training & Testing/main_logs
-*.xlsx
+
 *.sh
