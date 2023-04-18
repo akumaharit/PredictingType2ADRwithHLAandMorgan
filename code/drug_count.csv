@@ -1,0 +1,47 @@
+,Drug,Count_before,Count_after,Count
+0,carbamazepine,10143.0,8016.0,6860.0
+1,NSAID and 'multi-ingredient cold medication',6023.0,,
+2,phenytoin,5062.0,4143.0,3206.0
+3,allopurinol,2788.0,1969.0,1689.0
+4,bucillamine,2603.0,,
+5,lapatinib,2070.0,,
+6,amoxicillin-clavulanate,1890.0,,
+7,antiepileptic drugs,1370.0,,
+8,lumiracoxib,954.0,,
+9,sulfasalazine,930.0,,
+10,lamotrigine,852.0,795.0,601.0
+11,clozapine,790.0,,
+12,aspirin,665.0,,
+13,nevirapine,607.0,339.0,231.0
+14,EGF receptor inhibitors,546.0,,
+15,co-trimoxazole,544.0,,
+16,abacavir,279.0,,
+17,oxcarbazepine,275.0,275.0,215.0
+18,antibacterial drugs,264.0,,
+19,flucloxacillin,261.0,,
+20,statins,174.0,,
+21,tetanus antitoxin,173.0,,
+22,asparaginase,157.0,,
+23,levetiracetam,130.0,130.0,81.0
+24,sulfamethoxazole,112.0,112.0,70.0
+25,ticlopidine,112.0,,
+26,methazolamide,75.0,75.0,21.0
+27,trichloroethylene,70.0,70.0,70.0
+28,ximelagatran,57.0,,
+29,dapsone,33.0,,
+30,antituberculosis drugs,28.0,,
+31,paracetamol,22.0,22.0,4.0
+32,vancomycin,19.0,,
+33,phenobarbital,18.0,11.0,11.0
+34,valproic acid,10.0,10.0,
+35,terbinafine,6.0,,
+36,flupirtine,5.0,,
+37,oxicam NSAIDs,4.0,4.0,
+38,minocycline,4.0,,
+39,fenofibrate,3.0,,
+40,erythromycin,2.0,,
+41,sertraline,2.0,,
+42,methyldopa,2.0,,
+43,enalapril,2.0,,
+44,valproicacid,,,10.0
+45,oxicamNSAIDs,,,4.0
